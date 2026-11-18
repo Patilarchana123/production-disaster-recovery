@@ -1,5 +1,4 @@
 Production Application
-Version: 1.2
+Version: 2.0
 Status: Stable
-Feature: User Login
-Feature: Dashboard
+Feature: New Payment System
