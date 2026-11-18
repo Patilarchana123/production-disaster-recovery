@@ -1,4 +1,5 @@
 Production Application
-Version: 1.1
+Version: 1.2
 Status: Stable
 Feature: User Login
+Feature: Dashboard
